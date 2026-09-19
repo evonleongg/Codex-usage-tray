@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
+
+# Per-user application data
+settings.json
+codex-usage-tray.log
+
+# Release artifacts
+dist/

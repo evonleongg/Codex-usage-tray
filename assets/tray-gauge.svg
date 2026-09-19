@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Codex Usage Tray gauge explanation">
+  <rect width="1200" height="420" rx="28" fill="#f8fafc"/>
+  <text x="70" y="92" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" fill="#0f172a">Tray gauge at a glance</text>
+  <text x="70" y="132" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#64748b">Two quota windows, visible in a single compact system-tray icon.</text>
+  <g transform="translate(150 190)">
+    <circle cx="95" cy="95" r="80" fill="#d1d5db"/>
+    <path d="M95 15 A80 80 0 0 1 170 67" fill="none" stroke="#35d39e" stroke-width="22" stroke-linecap="round"/>
+    <path d="M95 95 L95 51 A44 44 0 0 1 137 111 Z" fill="#facc15"/>
+  </g>
+  <path d="M385 228h138" stroke="#35d39e" stroke-width="4"/><circle cx="535" cy="228" r="7" fill="#35d39e"/>
+  <text x="560" y="222" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#0f172a">Outer arc · short-term usage</text>
+  <text x="560" y="254" font-family="Segoe UI,Arial,sans-serif" font-size="19" fill="#64748b">Green normally, orange once the window is fully used.</text>
+  <path d="M385 312h138" stroke="#facc15" stroke-width="4"/><circle cx="535" cy="312" r="7" fill="#facc15"/>
+  <text x="560" y="306" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#0f172a">Inner pie · long-term usage</text>
+  <text x="560" y="338" font-family="Segoe UI,Arial,sans-serif" font-size="19" fill="#64748b">Filled sector equals used capacity; red once the window is full.</text>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "refresh_minutes": 15,
+  "remaining_alert_percent": 20,
+  "window_width": 360,
+  "window_height": 330
+}
